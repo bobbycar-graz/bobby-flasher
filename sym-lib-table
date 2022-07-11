@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "SS8050")(type "Legacy")(uri "${KIPRJMOD}/SS8050.lib")(options "")(descr ""))
+  (lib (name "usb_c_bobby")(type "Legacy")(uri "${KIPRJMOD}/usb_c_bobby.lib")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "SS8050")(type "KiCad")(uri "${KIPRJMOD}/SS8050.pretty")(options "")(descr ""))
+  (lib (name "usb_c_bobby")(type "KiCad")(uri "${KIPRJMOD}/usb_c_bobby.pretty")(options "")(descr ""))
+)
