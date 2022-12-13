@@ -1703,7 +1703,7 @@
   (symbol (lib_id "power:+3.3V") (at 52.07 97.79 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 74147b9c-cb2f-4891-9443-1a94de746fa2)
-    (property "Reference" "#PWR?" (id 0) (at 48.26 97.79 0)
+    (property "Reference" "#PWR0134" (id 0) (at 48.26 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (id 1) (at 55.88 92.71 0)
@@ -1835,7 +1835,7 @@
   (symbol (lib_id "Device:R") (at 48.26 97.79 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 8d8a5fb8-3d37-44db-8066-f39f047239fe)
-    (property "Reference" "R?" (id 0) (at 48.26 92.71 90)
+    (property "Reference" "R10" (id 0) (at 48.26 92.71 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (id 1) (at 49.53 95.25 90)
@@ -2533,7 +2533,7 @@
       (reference "#PWR0133") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/74147b9c-cb2f-4891-9443-1a94de746fa2"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+      (reference "#PWR0134") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/34194ef4-e853-4693-8338-89bc6f8fe21a"
       (reference "C1") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -2611,7 +2611,7 @@
       (reference "R9") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/8d8a5fb8-3d37-44db-8066-f39f047239fe"
-      (reference "R?") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R10") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/ae033daf-360c-4132-9495-c228de33337f"
       (reference "U1") (unit 1) (value "CH343G") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
